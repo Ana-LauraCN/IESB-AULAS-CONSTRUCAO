@@ -1,0 +1,1 @@
+let {soma, minimo, MULTIPLICAR, Dividir, aoquadrado, raiz }  = require('./Calculadora')
