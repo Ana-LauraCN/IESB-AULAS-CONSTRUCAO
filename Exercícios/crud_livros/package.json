@@ -1,5 +1,5 @@
 {
-  "name": "crud_livros",
+  "name": "crud_livros",.
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
