@@ -1,0 +1,21 @@
+{
+    "name": "api-empresas",
+    "version": "1.0.0",
+    "description": "API para gerenciar empresas, departamentos, cargos, funcionários, projetos e tarefas",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "nodemon src/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.6.1",
+        "express": "^4.21.2",
+        "mongoose": "^7.8.7",
+        "yup": "^1.7.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    }
+}
